@@ -1,7 +1,7 @@
 # Autor: Leon Gajtner 
 # Datum: 07.11.2024
 # PDF Magic Enhanced Drag and Drop Module
-# Version: 1.0.2
+# Version: 2.1
 
 import os
 import logging
